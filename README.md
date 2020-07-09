@@ -1,4 +1,4 @@
-# Search tool for TalTech programming test
+# TalTech programming test: search tool
 
 ## Created using Vue.js and Bootstrap
 
